@@ -1,4 +1,4 @@
-# Hi, I'm Elouahabi Naoufal
+# I'm Elouahabi Naoufal
 
 Welcome to my GitHub! I’m a **Cybersecurity Engineer**, **Full-Stack Developer**, and **Ethical Hacker**. My work revolves around building systems that are not only efficient and scalable but, most importantly, **secure**.
 
